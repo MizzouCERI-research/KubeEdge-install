@@ -35,7 +35,7 @@ fi
 # $1: IP of Cloud node 
 cloud_IP=$1
 
-kubeedgeVersion=1.6.0
+kubeedgeVersion=1.7.1
 
 cd /root/
 # install library prerequisites
